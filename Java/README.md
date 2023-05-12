@@ -11,5 +11,5 @@
 For e.g. 10 days:
 
 ```
-./gradlew -q text --args 10
+./gradlew -q text --args 16
 ```
